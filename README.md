@@ -2,9 +2,9 @@ FAS3.0流控一键安装脚本 （怕有后门的别用，所有文件已开源�
 ====
 FAS3.0流控一键安装脚本: wget -O fast.bin "https://raw.githubusercontent.com/heyixiao/FAS3.0-OpenVPN/master/fast-3.0.bin" && chmod +x fast.bin && ./fast.bin
 -------
-编译指令(编译文件在当前目录即可执行，否则需要填写文件路径) gcc -o fast.bin fast-3.0.c
+编译指令(编译文件在当前目录即可进行编译，否则需要填写文件路径) gcc -o fast.bin fast-3.0.c
 -------
-#缺少gcc文件：yum -y install gcc gcc-c++ gdb
+提示缺少gcc文件：yum -y install gcc gcc-c++ gdb
 -------
 
 
