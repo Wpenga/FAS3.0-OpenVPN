@@ -474,7 +474,7 @@ void Install_Begin(char* JuLi_MySQL_Pass,char* JuLi_APP_Name,char* Download_Host
 	printf("停止VPN vpn stop   \n");
 	printf("---------------------------------------------\n");
 	printf("APP下载地址: http://%s:1024/fas_app.apk\n",IP);
-	printf("交流QQ群: 812968838 欢迎大佬！\n");
+	printf("感谢使用，脚本结束！\n");
 	printf("---------------------------------------------\n");
 	printf("---------------------------------------------\n");
 	exit(0);
