@@ -17,6 +17,7 @@ jobs:
     - name: Build
       run: |
         sudo -E apt-get update
+        sudo -E apt-get upgrade
         sudo -E apt-get -y install yum
         yum -y install gcc gcc-c++ gdb
         cd ./
