@@ -106,8 +106,8 @@ void Home()
 	printf("FAS3.0流控  作者：筑梦科技(冬瓜) https://www.dingd.cn/product/fas.html  \n");
 	printf("此版本为FAS3.0流控去授权版  所有源码和FAS3.0原版一毛一样  无任何后门  不放心的别用！  \n");
 	printf("FAS流控【用户流量监控】已去除授权，可正常使用，由南瓜群(白菜大佬)提供的FAS【用户流量监控】去授权版\n");
-	printf("脚本源码文件已全部开源(Coding)：https://daloradius.coding.net/public/fast/fast/git/files \n");
-	printf("脚本源码文件已全部开源(Github)：https://github.com/heyixiao/FAS3.0-OpenVPN \n");
+//	printf("脚本源码文件已全部开源(Coding)：https://daloradius.coding.net/public/fast/fast/git/files \n");
+//	printf("脚本源码文件已全部开源(Github)：https://github.com/heyixiao/FAS3.0-OpenVPN \n");
 	printf("欢迎使用本脚本\n");
 	printf("2021.6.7更新\n");
 	printf("脚本修复：\n");
