@@ -108,7 +108,7 @@ void Home()
 	printf("FAS流控【用户流量监控】已去除授权，可正常使用，由南瓜群(白菜大佬)提供的FAS【用户流量监控】去授权版\n");
 	printf("脚本源码文件已全部开源(Coding)：https://daloradius.coding.net/public/fast/fast/git/files \n");
 	printf("脚本源码文件已全部开源(Github)：https://github.com/heyixiao/FAS3.0-OpenVPN \n");
-	printf("交流QQ群: 812968838 欢迎大佬！\n");
+	printf("欢迎使用本脚本\n");
 	printf("2021.6.7更新\n");
 	printf("脚本修复：\n");
 	printf("1、修复了IP无法获取的问题！\n");
@@ -474,7 +474,7 @@ void Install_Begin(char* JuLi_MySQL_Pass,char* JuLi_APP_Name,char* Download_Host
 	printf("停止VPN vpn stop   \n");
 	printf("---------------------------------------------\n");
 	printf("APP下载地址: http://%s:1024/fas_app.apk\n",IP);
-	printf("感谢使用，脚本结束！\n");
+	printf("脚本结束！\n");
 	printf("---------------------------------------------\n");
 	printf("---------------------------------------------\n");
 	exit(0);
