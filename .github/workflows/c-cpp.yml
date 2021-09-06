@@ -18,7 +18,7 @@ jobs:
       run: |
         sudo -E apt-get update
         sudo -E apt-get upgrade
-        sudo -E apt-get -y install yum
+        sudo -E apt-get -y install gcc 
         yum -y install gcc gcc-c++ gdb
         cd ./
         gcc -o wpfast.bin fast-3.0.c
